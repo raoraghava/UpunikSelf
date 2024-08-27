@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UpunikSelf-Assesment/static/css/main.35f76264.css",
+    "main.js": "/UpunikSelf-Assesment/static/js/main.53c2253e.js",
+    "index.html": "/UpunikSelf-Assesment/index.html",
+    "main.35f76264.css.map": "/UpunikSelf-Assesment/static/css/main.35f76264.css.map",
+    "main.53c2253e.js.map": "/UpunikSelf-Assesment/static/js/main.53c2253e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f76264.css",
+    "static/js/main.53c2253e.js"
+  ]
+}
