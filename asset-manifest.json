@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/UpunikSelf-Assesment/static/css/main.35f76264.css",
-    "main.js": "/UpunikSelf-Assesment/static/js/main.fa364ff4.js",
+    "main.js": "/UpunikSelf-Assesment/static/js/main.86b91d26.js",
     "index.html": "/UpunikSelf-Assesment/index.html",
     "main.35f76264.css.map": "/UpunikSelf-Assesment/static/css/main.35f76264.css.map",
-    "main.fa364ff4.js.map": "/UpunikSelf-Assesment/static/js/main.fa364ff4.js.map"
+    "main.86b91d26.js.map": "/UpunikSelf-Assesment/static/js/main.86b91d26.js.map"
   },
   "entrypoints": [
     "static/css/main.35f76264.css",
-    "static/js/main.fa364ff4.js"
+    "static/js/main.86b91d26.js"
   ]
 }
